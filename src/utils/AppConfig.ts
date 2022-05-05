@@ -1,10 +1,10 @@
 export const AppConfig = {
-  site_name: 'Starter',
-  title: 'Next.js Boilerplate',
+  site_name: 'Helen le Roux',
+  title: 'Helen le Roux',
   description:
-    'Starter code for your Next.js blog Boilerplate with Tailwind CSS',
-  url: 'https://example.com',
+    "I'm a film critic and writer based in Cape Town, South Africa. I'm interested in exploring the relationship between film and art, and the relationship between art and culture.",
+  url: 'https://helenleroux.com',
   locale: 'en',
-  author: 'Anonymous',
+  author: 'Helen le Roux',
   pagination_size: 5,
 };
